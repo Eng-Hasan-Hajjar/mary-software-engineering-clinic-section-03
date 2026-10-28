@@ -1,0 +1,6 @@
+print("Clinic Management System")
+print("1. Add Patient")
+print("2. View Patients")
+print("3. Add Appointment")
+print("4. View Appointments")
+print("5. Exit")
